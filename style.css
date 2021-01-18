@@ -1,0 +1,211 @@
+*{
+	margin: 0px;
+	font-family: 'Anton', sans-serif;
+}
+.Hedder{
+	height: 10vh;
+	background-color: black;
+}
+.Content1{
+	height: 90vh;
+	background-image: url(https://kartinkinaden.ru/uploads/posts/2020-07/1595789893_5-p-fon-zvezdnie-voini-5.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.logoImg{
+	margin-left: 250px;
+	float: left; 
+	padding-top: 10px;
+}
+.logoText{
+	margin-left: 30px;
+	float: left;
+	color: gold;
+	font-size: 40px;
+	padding-top: 5px;
+}
+.filter1{
+	height: 90vh;
+	background-color: #88888866;
+}
+.f1Text{
+	width: 600px;
+	height: 60px;
+	margin: auto;
+	text-align: center;
+	font-size: 40px;
+	padding-top: 200px;
+	color: white;
+	border-bottom: 1px solid white;
+}
+.f1Button{
+	width: 750px;
+	height: 100px;
+	margin: auto;
+	text-align: center;
+}
+.f1Button button{
+	background-color: #00000000;
+	font-size: 100px; 
+	cursor: pointer;
+	border: none;
+	outline: none;
+	transition: color 0.3s ease;	
+}
+.f1Button button:hover{
+	color: gold;
+}
+.Content2{
+	height: 40vh;
+	background-color: black;
+}
+.c2t1{
+	width: 850px;
+	margin: auto;
+	color: gold;
+	text-align: center;
+	font-size: 40px;
+	padding-top: 30px;
+	border-bottom: 1px solid gold;
+}
+.c2t2{
+	width: 850px;
+	margin: auto;
+	clear: both;
+	color: gold;
+	text-align: center;
+	margin-top: 20px;
+	font-size: 30px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid gold;
+}
+
+.Content3{
+	height: 80vh;
+	background-image: url(https://steamuserimages-a.akamaihd.net/ugc/1000304698133246759/D95F824883B3ADF6CE12F1C95455F0C844FDF395/?imw=512&amp;imh=342&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true);
+	background-size: cover;
+	background-position: center;
+}
+.filter2{
+	width: 50%;
+	height: 80vh;
+	background-color: black;
+	float: left;
+	cursor: pointer;
+	color: blue;
+	text-align: center;
+	font-size: 45px;
+	transition: color 3s ease,
+				background-color 2s ease;
+}
+.filter3{
+	width: 50%;
+	height: 80vh;
+	background-color: black;
+	float: right;
+	cursor: pointer; 
+	color: red; 
+	text-align: center;
+	font-size: 45px;
+	transition: color 3s ease, 
+				background-color 2s ease;
+}
+.filter2:hover{
+	background-color: #00000000;
+	color: #00000000
+
+}
+.filter3:hover{
+	background-color: #00000000;
+	color: #00000000
+}
+.Content4{
+	height: 35vh;
+	background-color: black;
+}
+.Content5{
+	height: 90vh;
+	background-image: url(https://i.imgur.com/BFoqRDg.jpg);
+	background-size: cover;
+	background-position: top;
+}
+.filter4{
+	height: 90vh;
+	background-color: #88888866;
+}
+.c4t1{
+	width: 750px;
+	color: gold;
+	margin: auto;
+	font-size: 40px;
+	text-align: center;
+	padding-top: 50px;
+	border-bottom: 1px solid gold;
+}
+.c4t2{
+	width: 750px;
+	color: gold;
+	margin: auto;
+	text-align: center;
+	border-bottom: 1px solid gold;
+	margin-top: 20px;
+	font-size: 30px;
+	padding-bottom: 20px;
+}
+.c5t1{
+	width: 600px;
+	height: 60px;
+	margin: auto;
+	text-align: center;
+	font-size: 40px;
+	color: white;
+	padding-top: 50px;
+	border-bottom: 1px solid white; 
+}
+.frm{
+	width: 350px;
+	margin: auto;
+	padding-top: 20px;
+	font-size: 20px;
+}
+
+.tt{
+	width: 350px;
+	height: 30px;
+	border: 1px solid #88888899;
+	font-size: 15px;
+}
+.tt1{
+	width: 350px;
+	height: 100px;
+}
+.tt2{
+	width: 20px;
+	height: 20px;
+	padding: 15px;
+}
+.tt3{
+	width: 100px;
+	height: 30px;
+	text-align: center;
+	margin-left: 141px;
+}
+.Footer{
+	height: 10vh;
+	background-color: black;
+}
+.foot1{
+	float: left;
+	color: #a3a5a6;
+	font-size: 15px;
+	padding-top: 25px;
+	padding-left: 100px;
+
+}
+.fimg{
+	float:right;
+	padding-top: 20px;
+	padding-right: 50px;
+}
+
+
